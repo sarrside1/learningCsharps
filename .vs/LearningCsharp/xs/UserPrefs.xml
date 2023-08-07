@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{6163A05B-20F8-4045-B21C-E4EF9B962357}|Default">
-  <MonoDevelop.Ide.ItemProperties.SchoollHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="56" column="1" />
-      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="44" column="1" />
-      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="20" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{1C32DB4C-8A7C-46AA-A4F3-1A61B90E8AB1}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CovarianceAndContravarianceDelegateExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SchoollHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="56" column="1" />
+    <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="44" column="1" />
+    <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="20" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClubMemberShipApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClubMemberShipApplication/Views/UserRegistrationView.cs">
     <Files>
       <File FileName="SchoollHRAdministration/Program.cs" />
@@ -55,5 +55,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ClubMemberShipApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FuncActionPredicateExamples FirstBuild="True" />
 </Properties>
