@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1C32DB4C-8A7C-46AA-A4F3-1A61B90E8AB1}|Default">
+﻿<Properties StartupConfiguration="{748E748A-4295-4A45-BD4F-2446181FF5EC}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CovarianceAndContravarianceDelegateExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SchoollHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
@@ -10,6 +10,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ClubMemberShipApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DNSAsyncCallbackSampleCode FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClubMemberShipApplication/Views/UserRegistrationView.cs">
     <Files>
       <File FileName="SchoollHRAdministration/Program.cs" />
@@ -55,5 +56,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FuncActionPredicateExamples FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FuncActionPredicateExamples PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

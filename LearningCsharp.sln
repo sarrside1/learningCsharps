@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceAndContravariance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncActionPredicateExamples", "FuncActionPredicateExamples\FuncActionPredicateExamples.csproj", "{748E748A-4295-4A45-BD4F-2446181FF5EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSAsyncCallbackSampleCode", "DNSAsyncCallbackSampleCode\DNSAsyncCallbackSampleCode.csproj", "{AA796604-B93C-40E9-9636-4535A3572C61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{748E748A-4295-4A45-BD4F-2446181FF5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748E748A-4295-4A45-BD4F-2446181FF5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748E748A-4295-4A45-BD4F-2446181FF5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA796604-B93C-40E9-9636-4535A3572C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA796604-B93C-40E9-9636-4535A3572C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA796604-B93C-40E9-9636-4535A3572C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA796604-B93C-40E9-9636-4535A3572C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
