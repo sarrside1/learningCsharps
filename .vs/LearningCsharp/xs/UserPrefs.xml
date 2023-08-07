@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{6163A05B-20F8-4045-B21C-E4EF9B962357}|Default">
+  <MonoDevelop.Ide.ItemProperties.SchoollHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="56" column="1" />
+      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="44" column="1" />
+      <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClubMemberShipApplication/Views/UserRegistrationView.cs">
+    <Files>
+      <File FileName="SchoollHRAdministration/Program.cs" />
+      <File FileName="HRAdministrationAPI/IEmployee.cs" />
+      <File FileName="HRAdministrationAPI/EmployeeBase.cs" />
+      <File FileName="HRAdministrationAPI/FactoryPattern.cs" />
+      <File FileName="DelegateBasicExample/Program.cs" />
+      <File FileName="ClubMemberShipApplication/Program.cs" Line="11" Column="31" />
+      <File FileName="ClubMemberShipApplication/Models/User.cs" Line="10" Column="41" />
+      <File FileName="ClubMemberShipApplication/Data/ClubMemberShipDbContext.cs" />
+      <File FileName="FieldValidationApi/CommunFieldValidatorFunction.cs" Line="11" Column="1" />
+      <File FileName="FieldValidationApi/CommonRegularExpressionvalidationPatterns.cs" Line="4" Column="9" />
+      <File FileName="ClubMemberShipApplication/FieldValidators/IFieldValidator.cs" Line="4" Column="23" />
+      <File FileName="ClubMemberShipApplication/FieldValidators/FieldContants.cs" Line="18" Column="12" />
+      <File FileName="ClubMemberShipApplication/FieldValidators/UserRegistrationValidator.cs" Line="66" Column="156" />
+      <File FileName="ClubMemberShipApplication/Data/IRegister.cs" Line="6" Column="8" />
+      <File FileName="ClubMemberShipApplication/Data/ILogin.cs" Line="8" Column="5" />
+      <File FileName="ClubMemberShipApplication/Data/RegisterUser.cs" Line="20" Column="31" />
+      <File FileName="ClubMemberShipApplication/CommonOutputText.cs" Line="50" Column="43" />
+      <File FileName="ClubMemberShipApplication/CommonOutputFormat.cs" Line="26" Column="24" />
+      <File FileName="ClubMemberShipApplication/Views/IView.cs" Line="6" Column="19" />
+      <File FileName="ClubMemberShipApplication/Views/UserRegistrationView.cs" Line="20" Column="1" />
+      <File FileName="ClubMemberShipApplication/Views/UserLoginView.cs" Line="31" Column="43" />
+      <File FileName="ClubMemberShipApplication/Views/WelcomeUserView.cs" Line="22" Column="31" />
+      <File FileName="ClubMemberShipApplication/Views/MainView.cs" Line="27" Column="32" />
+      <File FileName="ClubMemberShipApplication/Factory.cs" Line="11" Column="4" />
+      <File FileName="ClubMemberShipApplication/Data/LoginUser.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearningCsharp" expanded="True">
+            <Node name="ClubMemberShipApplication">
+              <Node name="Data" expanded="True" />
+              <Node name="FieldValidators" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="UserRegistrationView.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="FieldValidationApi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClubMemberShipApplication PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

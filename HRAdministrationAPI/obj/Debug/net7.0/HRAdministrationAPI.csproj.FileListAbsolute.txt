@@ -1,0 +1,12 @@
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.deps.json
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.AssemblyReference.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfoInputs.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfo.cs
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.CoreCompileInputs.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/refint/HRAdministrationAPI.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/sidesarr/Projects/SchoollHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/ref/HRAdministrationAPI.dll

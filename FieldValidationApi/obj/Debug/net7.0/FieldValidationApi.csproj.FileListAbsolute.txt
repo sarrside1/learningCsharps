@@ -1,0 +1,12 @@
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/bin/Debug/net7.0/FieldValidationApi.deps.json
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/bin/Debug/net7.0/FieldValidationApi.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/bin/Debug/net7.0/FieldValidationApi.pdb
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.csproj.AssemblyReference.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.AssemblyInfoInputs.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.AssemblyInfo.cs
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.csproj.CoreCompileInputs.cache
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/refint/FieldValidationApi.dll
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/FieldValidationApi.pdb
+/Users/sidesarr/Projects/SchoollHRAdministration/FieldValidationApi/obj/Debug/net7.0/ref/FieldValidationApi.dll
