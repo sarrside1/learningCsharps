@@ -1,7 +1,10 @@
-﻿<Properties StartupConfiguration="{748E748A-4295-4A45-BD4F-2446181FF5EC}|Default">
+﻿<Properties StartupConfiguration="{BDA70C23-4483-4135-96AC-1689E9ED88CE}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ThermostatEventsApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ThresholdReachedEventApplication2 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CovarianceAndContravarianceDelegateExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SchoollHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ThresholdReachedEventApplication1 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="56" column="1" />
     <Breakpoint file="/Users/sidesarr/Projects/SchoollHRAdministration/ClubMemberShipApplication/Views/UserRegistrationView.cs" relfile="ClubMemberShipApplication/Views/UserRegistrationView.cs" line="44" column="1" />
@@ -10,7 +13,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ClubMemberShipApplication PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.DNSAsyncCallbackSampleCode FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DNSAsyncCallbackSampleCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClubMemberShipApplication/Views/UserRegistrationView.cs">
     <Files>
       <File FileName="SchoollHRAdministration/Program.cs" />
@@ -56,5 +59,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThresholdReachedEventApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FuncActionPredicateExamples PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

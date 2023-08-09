@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncActionPredicateExamples
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSAsyncCallbackSampleCode", "DNSAsyncCallbackSampleCode\DNSAsyncCallbackSampleCode.csproj", "{AA796604-B93C-40E9-9636-4535A3572C61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThresholdReachedEventApplication", "ThresholdReachedEventApplication\ThresholdReachedEventApplication.csproj", "{BDA70C23-4483-4135-96AC-1689E9ED88CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThresholdReachedEventApplication1", "ThresholdReachedEventApplication1\ThresholdReachedEventApplication1.csproj", "{F5A16FCD-EDD1-422A-9558-0D195E004E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThresholdReachedEventApplication2", "ThresholdReachedEventApplication2\ThresholdReachedEventApplication2.csproj", "{5547D127-A944-4E92-8D6D-D937B270FEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermostatEventsApp", "ThermostatEventsApp\ThermostatEventsApp.csproj", "{607B441F-25A8-4543-A111-78996BE3F884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,22 @@ Global
 		{AA796604-B93C-40E9-9636-4535A3572C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA796604-B93C-40E9-9636-4535A3572C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA796604-B93C-40E9-9636-4535A3572C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA70C23-4483-4135-96AC-1689E9ED88CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA70C23-4483-4135-96AC-1689E9ED88CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA70C23-4483-4135-96AC-1689E9ED88CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA70C23-4483-4135-96AC-1689E9ED88CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A16FCD-EDD1-422A-9558-0D195E004E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A16FCD-EDD1-422A-9558-0D195E004E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A16FCD-EDD1-422A-9558-0D195E004E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A16FCD-EDD1-422A-9558-0D195E004E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5547D127-A944-4E92-8D6D-D937B270FEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5547D127-A944-4E92-8D6D-D937B270FEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5547D127-A944-4E92-8D6D-D937B270FEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5547D127-A944-4E92-8D6D-D937B270FEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607B441F-25A8-4543-A111-78996BE3F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607B441F-25A8-4543-A111-78996BE3F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607B441F-25A8-4543-A111-78996BE3F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607B441F-25A8-4543-A111-78996BE3F884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
